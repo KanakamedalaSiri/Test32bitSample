@@ -322,7 +322,7 @@
     "fabric_runtime_app_version": "Linked",
     "fbxfolderpathkey": "",
     "fgcolorkey": "255,255,255",
-    "generateAppBundle": true,
+    "generateAppBundle": false,
     "generateJavaCodeForForms": "false",
     "genericexceptionalert": "false",
     "gradle_properties_attrs": "",
