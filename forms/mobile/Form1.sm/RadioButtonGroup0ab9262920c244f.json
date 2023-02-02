@@ -1,0 +1,99 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd01c7211705471ab54948d47cba0662",
+    "_top_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "RadioButtonGroup0ab9262920c244f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "f732dfa454874a4dae68c825058e6fb2",
+    "masterdata": [
+        [
+            "rbg1",
+            "Radiobutton One"
+        ],
+        [
+            "rbg2",
+            "Radiobutton Two"
+        ],
+        [
+            "rbg3",
+            "Radiobutton Three"
+        ],
+        [
+            "one",
+            "abc"
+        ],
+        [
+            "Key2508929337",
+            "Value"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "Form1",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "one",
+    "selectedkeyvalue": [
+        "one",
+        "abc"
+    ],
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}
